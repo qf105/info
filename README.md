@@ -31,6 +31,7 @@ In this first lab though, we will get started with some command-line tools, some
 
 ## The Linux Lab
 
+
 Most lab assignments can be performed on your local machine.
 If you already run Linux or macOS on your laptop, you should be ready to go.
 Linux and macOS are to a large extent relatively similar at the command level.
