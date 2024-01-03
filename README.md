@@ -1,4 +1,4 @@
-# Lab 1: Introduction to Unix
+# Lab 1: Introduction to Unixx
 
 | Lab 1: | Introduction to Unix |
 | ---------------------    | --------------------- |
@@ -30,7 +30,6 @@ We will not implement our own operating system, but in some of the assignments w
 In this first lab though, we will get started with some command-line tools, some of which are based on the Missing Semester course from MIT.
 
 ## The Linux Lab
-
 
 Most lab assignments can be performed on your local machine.
 If you already run Linux or macOS on your laptop, you should be ready to go.
