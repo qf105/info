@@ -22,6 +22,7 @@
 
 ## Introduction
 
+
 The overall aim of the labs in this course is to learn how to develop systems where you need to access operating system resources, and that may require some low-level tuning to obtain the desired performance.
 We will do this through a series of lab assignments that will expose you to numerous developer tools, and by developing applications in the Go programming language.
 We will not implement our own operating system, but in some of the assignments we try to emulate pieces of an operating system, such as memory management and scheduling.
