@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+
 1. [Introduction](#introduction)
 2. [The Linux Lab](#the-linux-lab)
 3. [Task: Sign up for Unix Account - Do It Now](#task-sign-up-for-unix-account---do-it-now)
